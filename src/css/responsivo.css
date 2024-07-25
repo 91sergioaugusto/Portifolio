@@ -17,6 +17,10 @@
     height: 40px;
   }
 
+  .botao:hover {
+    transform: scale(1);
+  }
+
   .apresentacao__selecionada {
     margin: 20px;
   }
