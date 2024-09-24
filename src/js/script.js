@@ -10,3 +10,5 @@ botoes.forEach((botao, indice) => {
     apresentacoes[indice].classList.add("apresentacao__selecionada");
   });
 });
+
+//sergio
